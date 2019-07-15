@@ -1,0 +1,7 @@
+name: "Corporal"
+output_dir: "docs"
+navbar:
+  title: "Corporal"
+  left:
+  - text: "Home"
+    href: index.html
