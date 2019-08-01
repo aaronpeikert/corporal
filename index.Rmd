@@ -10,25 +10,19 @@ Voraussetzungen:
 
 Mögliche Termine sind:
   
-* 22.07.
-    * 10-13h
-    * 14-17h
-
-* 23.07.
-  * 10-13h
-  * 14-17h
-* 24.07.
-  * 10-13h
-  * 14-17h
-* 29.07.
-  * 10-13h
-  * 14-17h
-* 30.07.
-  * 10-13h
-  * 14-17h
-* 31.07.
-  * 10-13h
-  * 14-17h
+* 10.08.
+    * 10:00-13:00h
+    * 14:30-17:30h
+* 13.08.
+  * 17:00-20:00h
+* 15.08.
+  * 17:00-20:00h
+* 20.08.
+    * 10:00-13:00h
+    * 14:30-17:30h
+* 22.08.
+    * 10:00-13:00h
+    * 14:30-17:30h    
 
 Falls Sie einen passenden Termin finden, schicken Sie Ihren Terminwunsch bitte an folgende Adresse:
   dia.hu.berlin@gmail.com
